@@ -1,10 +1,4 @@
 {
-  "short_name": "Clima Y Noticias",
-  "name": "App estado del clima y noticias",
-  "start_url": ".",
-  "display": "standalone",
-  "theme_color": "#000000",
-  "background_color": "#ffffff",
   "icons": [
     {
       "src": "windows11/SmallTile.scale-100.png",
