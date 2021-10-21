@@ -16,3 +16,19 @@ En cualquiera de los casos que no se ingrese ningún dato en los formularios, au
 
 
 
+Este proyecto se encuentra en mi repositorio en GitHub, pueden acceder por medio de la siguiente url:  https://github.com/luiscardoza26/App-Clima-Noticias.git
+
+Por otro lado, adjuntare a cada correo donde se me solicito enviar la prueba resuelta, todo el proyecto comprimido en un archivo rar, para que lo puedan utilizar sin ningun problema.
+
+
+
+Como mencione al comienzo, esta aplicación la realice como PWA, por lo que también desplegue esta app en internet con un host gratuito, esto nos permite utilizar la app por medio de una url, la cual nos cargara la aplicación de manera rápida y podremos usarla sin ningun problema, además de que la podran descagar en cualquier dispositivo ya sea tablet, laptop, celular, computador de mesa. Esta app funcionara en modo offline y una vez descargada esta la podran visualizar con su respectivo icono, nombre de la app, y detalles mas internos.
+
+En el siguiente enlace podran interactuar y probar la aplicacion como deseen y hacer todo lo anteriormente mencionado:  https://gifted-panini-d295fd.netlify.app
+
+
+
+
+De antemano les agradezco y espero disfruten la aplicación.
+
+
