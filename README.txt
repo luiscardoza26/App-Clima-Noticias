@@ -22,13 +22,17 @@ Por otro lado, adjuntare a cada correo donde se me solicito enviar la prueba res
 
 
 
-Como mencione al comienzo, esta aplicación la realice como PWA, por lo que también desplegue esta app en internet con un host gratuito, esto nos permite utilizar la app por medio de una url, la cual nos cargara la aplicación de manera rápida y podremos usarla sin ningun problema, además de que la podran descagar en cualquier dispositivo ya sea tablet, laptop, celular, computador de mesa. Esta app funcionara en modo offline y una vez descargada esta la podran visualizar con su respectivo icono, nombre de la app, y detalles mas internos.
+Como mencione al comienzo, esta aplicación la realice como PWA, por lo que también desplegue esta app en internet con un host gratuito, esto nos permite utilizar la app por medio de una url, la cual nos cargara la aplicación de manera rápida y podremos utilizarla, además de que la podran descagar en cualquier dispositivo ya sea tablet, laptop, celular, computador de mesa. Esta app funcionara en modo offline y una vez descargada esta la podran visualizar con su respectivo icono, nombre de la app, y detalles mas internos.
 
-En el siguiente enlace podran interactuar y probar la aplicacion como deseen y hacer todo lo anteriormente mencionado:  https://gifted-panini-d295fd.netlify.app
+En el siguiente enlace podran interactuar y probar la aplicacion como deseen y hacer todo lo anteriormente mencionado:  https://festive-jepsen-9edf8a.netlify.app
+
+NOTA: La api newsapi.org, cambio algunos de sus terminos en cuanto al poder usar su api en un entorno de producción, por lo que al momento de que visualicen la app en la url mencionada anteriormente, el formulario de noticias no podrá cargar la consulta de noticias, a diferencia del otro formulario que funcionara de manera correcta. Esto no quiere decir que la app no funcione, ya que esta se encentra funcionando perfectamente, por lo que rrecomiendo, que visualicen y prueben esta app de manera local, para que puedan apreciar las funciones de esta aplicación, a la cual le dedique tiempo, al ser un lenguaje un poco nuevo para mi, hice todo para realizar de manera correcta esta increible app con react.
 
 
 
 
-De antemano les agradezco y espero disfruten la aplicación.
+
+
+De antemano les agradezco por todo su tiempo y espero disfruten la aplicación.
 
 

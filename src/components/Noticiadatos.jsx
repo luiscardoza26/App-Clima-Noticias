@@ -7,6 +7,7 @@ import { NOTICIA_KEY } from '../keys';
 
 class NoticiaDatos extends Component {
 
+    
     constructor(props) {
         super(props);
         this.state = {
@@ -44,7 +45,7 @@ class NoticiaDatos extends Component {
             <div>
                 <Noticiaform getNoticia={this.getNoticia}/>
 
-                {this.state.articles.map((item, index) => {
+                {!!this.state.articles && this.state.articles.map((item, index) => {
                     return (
                         <div className="card card-body text-white bg-dark mt-2" key={index} style={{ textAlign:'left' }}>
                             <h4 style={{ textAlign:'left' }}>
