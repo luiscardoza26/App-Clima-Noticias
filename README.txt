@@ -26,7 +26,7 @@ Como mencione al comienzo, esta aplicación la realice como PWA, por lo que tamb
 
 En el siguiente enlace podran interactuar y probar la aplicacion como deseen y hacer todo lo anteriormente mencionado:  https://festive-jepsen-9edf8a.netlify.app
 
-NOTA: La api newsapi.org, cambio algunos de sus terminos en cuanto al poder usar su api en un entorno de producción, por lo que al momento de que visualicen la app en la url mencionada anteriormente, el formulario de noticias no podrá cargar la consulta de noticias, a diferencia del otro formulario que funcionara de manera correcta. Esto no quiere decir que la app no funcione, ya que esta se encentra funcionando perfectamente, por lo que rrecomiendo, que visualicen y prueben esta app de manera local, para que puedan apreciar las funciones de esta aplicación, a la cual le dedique tiempo, al ser un lenguaje un poco nuevo para mi, hice todo para realizar de manera correcta esta increible app con react.
+NOTA: La api newsapi.org en su plan gratuito solo ofrece su funcionamiento en entornos locales y no en producción o al desplegarla en host gratuito, por lo que al momento de que visualicen la app en la url mencionada anteriormente, el formulario de noticias no podrá cargar la consulta de noticias, a diferencia del otro formulario que funcionara de manera correcta. Esto no quiere decir que la app no funcione, ya que esta se encentra funcionando perfectamente, por lo que rrecomiendo, que visualicen y prueben esta app de manera local, para que puedan apreciar las funciones de esta aplicación, a la cual le dedique tiempo, al ser un lenguaje un poco nuevo para mi, hice todo para realizar de manera correcta esta increible app con react.
 
 
 
